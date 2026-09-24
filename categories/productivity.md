@@ -68,3 +68,8 @@ Reference manager for academic research. Collects, organizes, cites, and shares 
 :unlock: Open source (free, self-hosted) | Windows, macOS, Linux
 **Replaces:** Notion ($10/mo) for personal knowledge management
 Hierarchical note-taking application with rich editing, relation maps, scripting, and full-text search. Self-hosted with optional sync server. Supports note cloning, attributes, and a powerful scripting API.
+
+### [Orca One](https://orcaone.com/)
+:moneybag: $29.99 one-time launch price ($59.99 regular) | macOS 15+ (Apple silicon)
+**Replaces:** Wispr Flow Pro ($15/mo)
+Dictate into any Mac app and capture meeting transcripts with on-device speech recognition. A one-time license includes future updates and does not require a subscription.
